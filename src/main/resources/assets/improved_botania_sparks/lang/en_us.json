@@ -1,0 +1,14 @@
+{
+  "item.improved_botania_sparks.nilfheim_spark": "Nilfheim Spark",
+  "item.improved_botania_sparks.muspelheim_spark": "Muspelheim Spark",
+  "item.improved_botania_sparks.alfheim_spark": "Alfheim Spark",
+  "item.improved_botania_sparks.asgard_spark": "Asgard Spark",
+
+  "entity.improved_botania_sparks.nilfheim_spark": "Nilfheim Spark",
+  "entity.improved_botania_sparks.muspelheim_spark": "Muspelheim Spark",
+  "entity.improved_botania_sparks.alfheim_spark": "Alfheim Spark",
+  "entity.improved_botania_sparks.asgard_spark": "Asgard Spark",
+
+  "ibs.transfer_rate.formatted": "Transfer rate: %d mana per tick",
+  "ibs.work_range.formatted": "Range: %d blocks"
+}

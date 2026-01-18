@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "P": {
+      "item": "botania:rune_lust"
+    },
+    "R": {
+      "item": "botania:terrasteel_block"
+    },
+    "S": {
+      "item": "improved_botania_sparks:alfheim_spark"
+    },
+    "T": {
+      "item": "botania:gaia_ingot"
+    }
+  },
+  "pattern": [
+    "PSP",
+    "RTR",
+    "PSP"
+  ],
+  "result": {
+    "item": "improved_botania_sparks:asgard_spark"
+  },
+  "show_notification": true
+}

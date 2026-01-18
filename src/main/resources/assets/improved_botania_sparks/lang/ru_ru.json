@@ -1,0 +1,13 @@
+{
+  "item.improved_botania_sparks.nilfheim_spark": "Искра нильфхейма",
+  "item.improved_botania_sparks.muspelheim_spark": "Искра муспельхейма",
+  "item.improved_botania_sparks.alfheim_spark": "Искра альфхейма",
+  "item.improved_botania_sparks.asgard_spark": "Искра асгарда",
+
+  "entity.improved_botania_sparks.nilfheim_spark": "Искра нильфхейма",
+  "entity.improved_botania_sparks.muspelheim_spark": "Искра муспельхейма",
+  "entity.improved_botania_sparks.alfheim_spark": "Искра альфхейма",
+  "entity.improved_botania_sparks.asgard_spark": "Искра асгарда",
+
+  "ibs.transfer_rate.formatted": "Передает: %d маны в тик"
+}

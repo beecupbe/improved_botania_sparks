@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "P": {
+      "item": "botania:rune_envy"
+    },
+    "S": {
+      "item": "improved_botania_sparks:nilfheim_spark"
+    },
+    "T": {
+      "item": "botania:life_essence"
+    }
+  },
+  "pattern": [
+    " S ",
+    "PTP",
+    " S "
+  ],
+  "result": {
+    "item": "improved_botania_sparks:muspelheim_spark"
+  },
+  "show_notification": true
+}

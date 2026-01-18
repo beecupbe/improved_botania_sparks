@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "P": {
+      "item": "botania:rune_pride"
+    },
+    "R": {
+      "item": "botania:life_essence"
+    },
+    "S": {
+      "item": "improved_botania_sparks:muspelheim_spark"
+    },
+    "T": {
+      "item": "botania:gaia_ingot"
+    }
+  },
+  "pattern": [
+    "RSR",
+    "PTP",
+    "RSR"
+  ],
+  "result": {
+    "item": "improved_botania_sparks:alfheim_spark"
+  },
+  "show_notification": true
+}
